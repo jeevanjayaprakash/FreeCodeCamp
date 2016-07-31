@@ -5,7 +5,7 @@
  * jeevan.jayaprakash@cantab.net
  *
  * A function which checks if a string provided by a user is a palindrome (a word that is spelled the same way both backwards
- and forwards, ignoring puncutation, case and spelling.
+ and forwards, ignoring puncutation, case and spelling).
  */
  
  function palindrome(str) {

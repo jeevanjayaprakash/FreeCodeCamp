@@ -4,7 +4,7 @@
  * Jeevan Jayaprakash
  * jeevan.jayaprakash@cantab.net
  *
- * A function which returns an array of the largest numbers from a two-dimensional array. Originally desesigned to work with a 
+ * A function which returns an array of the largest numbers from a two-dimensional array. Originally designed to work with a 
  two-dimensional array with exactly 4 sub arrays
  */
  

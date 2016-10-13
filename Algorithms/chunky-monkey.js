@@ -14,7 +14,6 @@ function chunkArrayInGroups(arr, size) {
   var end = size;
   
   for(var i = 0; i < numOfArrays; i++) {
-
   newArray[i] = arr.slice(start, end);
   start += size;
   end += size; // if end exceeds arr.length then end = array.length
